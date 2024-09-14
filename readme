@@ -1,0 +1,2 @@
+wget https://github.com/nimlgen/hexagon_clang_rt_deb/releases/download/v1.0.0/hexagon_clang_rt_deb.deb -O /tmp/hexagon_clang_rt.deb
+sudo dpkg -i /tmp/hexagon_clang_rt.deb
