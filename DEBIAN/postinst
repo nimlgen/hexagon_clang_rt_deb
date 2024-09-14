@@ -1,0 +1,2 @@
+chmod 755 /usr/bin/hexagon/lib/libclang_rt.builtins-hexagon.a
+

@@ -1,0 +1,7 @@
+Package: libclang-rt-hexagon
+Version: 1.0
+Section: libs
+Priority: optional
+Architecture: arm64
+Maintainer: nimlgen <138685161+nimlgen@users.noreply.github.com>
+Description: A custom package for installing libclang_rt.builtins-hexagon.a into /usr/bin/hexagon/lib
